@@ -35,7 +35,7 @@ const experiences = [
     company: "@National Chemical Laboratory (CSIR)",
     period: "Feb 2025 – Jul 2025",
     responsibilities: [
-      "esigned and delivered an interactive Unity-based training game for students (ages 12-16), simplifying complex periodic table concepts through gamification and improving their comprehension and engagement.",
+      "Designed and delivered an interactive Unity-based training game for students (ages 12-16), simplifying complex periodic table concepts through gamification and improving their comprehension and engagement.",
     ],
     skills: ["TailwindCSS","React"],
   },
