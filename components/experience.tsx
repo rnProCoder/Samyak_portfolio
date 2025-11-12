@@ -35,11 +35,9 @@ const experiences = [
     company: "@National Chemical Laboratory (CSIR)",
     period: "Feb 2025 – Jul 2025",
     responsibilities: [
-      "Engineered a comprehensive security suite to automate penetration testing for Web Applications and REST APIs,providing a high-ROI alternative to commercial tools costing up to $50,000 annually",
-      " Integrated a GoLang specific SAST module, increasing the accuracy of identifying code vulnerabilities as defined by OWASP Standards.",
-      "Reduced testing environment setup time by 50% by developing and implementing Infrastructure as a Code (IaaC) scripts for automated and consistent deployment.",
+      "esigned and delivered an interactive Unity-based training game for students (ages 12-16), simplifying complex periodic table concepts through gamification and improving their comprehension and engagement.",
     ],
-    skills: ["Node.js","Semgrep"],
+    skills: ["TailwindCSS","React"],
   },
   // {
   //   title:  "Frontend Developer Intern",

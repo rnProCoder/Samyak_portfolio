@@ -14,7 +14,7 @@ const education = [
     institution: "Rahuri Education Society Jr. College, Rahuri",
     degree: "Higher Secondary Certificate (HSC) – Science",
     period: "Aug 2020 – Jun 2022",
-    gpa: "80.06%",
+    gpa: "80.67%",
     icon: "🏫"
   },
   {
