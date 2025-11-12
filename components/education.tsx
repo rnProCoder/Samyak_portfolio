@@ -7,21 +7,21 @@ const education = [
     institution: "Pune Institute of Computer Technology",
     degree: "B.Tech , Information Technology ",
     period: "Oct 2022 - May 2026",
-    gpa: "CGPA: 8.68/10",
+    gpa: "CGPA: 9.34/10",
     icon: "🎓",
   },
   {
-    institution: "Y.C. Junior College, Mangrulpir",
+    institution: "Rahuri Education Society Jr. College, Rahuri",
     degree: "Higher Secondary Certificate (HSC) – Science",
     period: "Aug 2020 – Jun 2022",
-    gpa: "87%",
+    gpa: "80.06%",
     icon: "🏫"
   },
   {
-    institution: "SNC School, Karanja (Lad)",
+    institution: "Maurya Academy English Medium School,Rahuri",
     degree: "Secondary School Certificate (SSC)",
     period: "Jun 2018 – Mar 2019",
-    gpa: "92.60%",
+    gpa: "89.60%",
     icon: "🎓"
 
   }

@@ -10,15 +10,15 @@ import Link from "next/link"
 const projects = [
   {
     logo: "/",
-      title: "SecureCode",
+      title: "ePrinter",
     description:
-      "AI-powered code review that detects vulnerabilities, boosts performance, and ensures compliance — with automated fixes and enterprise-grade security scanning.",
+      " streamlined printing solution, automating a manual campus process for over 2000 students to improve user convenience and operational efficiency, reducing user wait time by an estimated 45%.",
     image: "/securecode.png",
-    tags: ["React.js", "Gemini API", "Tailwind CSS", "MongoDB","Framer Motion"],
-    demoUrl: "https://securecode.bora.site/",
-    githubUrl: "https://github.com/aryanx16/SecureCode",
+    tags: ["React.js", "Tailwind CSS", "MongoDB","Framer Motion"],
+    demoUrl: "",
+    githubUrl: "",
     features: [
-      "Gemini API for code Review",
+      "Cloudinary for image/video storage",
       "Clean and responsive design built with Tailwind CSS",
     ],
   },
@@ -29,8 +29,8 @@ const projects = [
       "A dedicated platform for college clubs to upload and share event videos — from workshops to celebrations — with the entire campus community.",
     image: "/vines.jpg",
     tags: ["React.js", "Node.js", "Express.js", "Cloudinary", "Tailwind CSS"],
-    demoUrl: "https://vines.bora.site/",
-    githubUrl: "https://github.com/aryanx16/VINES",
+    demoUrl: "",
+    githubUrl: "",
     features: [
       "Cloudinary for image/video storage",
       "Social interactions like comment , like , subscribe ",

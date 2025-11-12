@@ -47,13 +47,13 @@ export default function Hero() {
             >
               <Button size="sm" className="text-xs sm:text-sm">
                 {/* <Download className="mr-2 h-3 w-3 sm:h-4 sm:w-4" /> */}
-                 <a href="https://drive.google.com/file/d/1q721N9j4RPxK82FFtXxOjjtSpyNLv3dK/view?usp=sharing">
+                 <a href="https://drive.google.com/file/d/1NV-CF_hqV8h9eY1_7b74jUCCdVVh_9pO/view?usp=sharing">
                  Resume
                  </a>
               </Button>
             </Link>
             <Link
-              href="https://github.com/aryanx16"
+              href=""
               target="_blank"
             >
               <Button variant="outline" size="sm" className="text-xs sm:text-sm">
@@ -77,7 +77,7 @@ export default function Hero() {
               </Button>
             </Link>
             <Link
-              href="https://www.linkedin.com/in/aryan-bora-49bb24298/"
+              href="https://www.linkedin.com/in/samyak-kiran-bora/"
               target="_blank"
             >
               <Button variant="outline" size="sm" className="text-xs sm:text-sm">
@@ -92,7 +92,7 @@ export default function Hero() {
           transition={{ duration: 0.5 }}
         >
 
-        <img src="./photo2.jpg" className=" object-cover w-96 h-80 border rounded-md shadow-md hidden md:block" alt="" />
+        <img src="./image.png" className=" object-cover w-96 h-80 border rounded-md shadow-md hidden md:block" alt="" />
         </motion.div>
         {/* <motion.div
           initial={{ opacity: 0, scale: 0.9 }}

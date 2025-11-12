@@ -113,7 +113,7 @@ export default function Contact() {
                     href="tel:8237500427"
                     className="font-medium hover:underline"
                   >
-                    +91 8237500427
+                   +91 9325999823
                   </Link>
                 </div>
               </div>
@@ -135,11 +135,11 @@ export default function Contact() {
                 <div>
                   <p className="text-sm text-muted-foreground">LinkedIn</p>
                   <Link
-                    href="https://www.linkedin.com/in/aryan-bora-49bb24298/"
+                    href="https://www.linkedin.com/in/samyak-kiran-bora/"
                     target="_blank"
                     className="font-medium hover:underline"
                   >
-                    linkedin.com/in/aryan-bora
+                    linkedin.com/in/samyak-kiran-bora
                   </Link>
                 </div>
               </div>
