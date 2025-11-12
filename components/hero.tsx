@@ -47,7 +47,7 @@ export default function Hero() {
             >
               <Button size="sm" className="text-xs sm:text-sm">
                 {/* <Download className="mr-2 h-3 w-3 sm:h-4 sm:w-4" /> */}
-                 <a href="https://drive.google.com/file/d/1NV-CF_hqV8h9eY1_7b74jUCCdVVh_9pO/view?usp=sharing">
+                 <a href="https://drive.google.com/file/d/1cz9C723S4RuZUgUWVInDUNZu3E2tDr1H/view?usp=sharing">
                  Resume
                  </a>
               </Button>
