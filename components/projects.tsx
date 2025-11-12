@@ -96,7 +96,7 @@ export default function Projects() {
                 </div>
 
                 <div className="flex gap-3 pt-2">
-                  <Button size="sm">
+                  {/* <Button size="sm">
                     <Link
                       href={project.demoUrl}
                       className="flex items-center"
@@ -104,7 +104,7 @@ export default function Projects() {
                     >
                       <ExternalLink className="mr-2 h-4 w-4" /> Live
                     </Link>
-                  </Button>
+                  </Button> */}
                   {
                     project.githubUrl && (
                       <Button size="sm" variant="outline">
