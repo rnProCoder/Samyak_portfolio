@@ -13,27 +13,27 @@ const skillCategories = [
     skills: [
       { name: "JavaScript", icon: <FaJs className="text-yellow-400" /> },
       { name: "React.js", icon: <FaReact className="text-blue-500" /> },
-      { name: "Next.js", icon: <RiNextjsFill className="text-black dark:text-white" /> },
-      { name: "Recoil", icon: <SiRecoil className="text-black dark:text-white" /> },
+      // { name: "Next.js", icon: <RiNextjsFill className="text-black dark:text-white" /> },
+      // { name: "Recoil", icon: <SiRecoil className="text-black dark:text-white" /> },
       { name: "HTML", icon: <FaHtml5 className="text-orange-500" /> },
       { name: "CSS", icon: <FaCss3 className="text-blue-500" /> },
       { name: "Bootstrap", icon: <FaBootstrap className="text-purple-500" /> },
       { name: "Tailwind CSS", icon: <RiTailwindCssFill className="text-cyan-400" /> },
-      { name: "GSAP", icon: <SiGreensock className="text-green-500" /> }
+      // { name: "GSAP", icon: <SiGreensock className="text-green-500" /> }
     ],
   },
-  {
-    title: "Backend",
-    skills: [
-      { name: "Node.js", icon: <FaNodeJs className="text-blue-600" /> },
-      { name: "Express.js", icon: <SiExpress className="text-green-500" /> },
-      { name: "Websocket", icon: <SiSocketdotio className="" /> },
-      { name: "JWT", icon: <SiJsonwebtokens className="text-orange-500" /> },
-      { name: "Redis", icon: <DiRedis className="text-red-500" /> },
-      { name: "Docker", icon: <FaDocker className="text-blue-400" /> },
+  // {
+  //   title: "Backend",
+  //   skills: [
+  //     { name: "Node.js", icon: <FaNodeJs className="text-blue-600" /> },
+  //     { name: "Express.js", icon: <SiExpress className="text-green-500" /> },
+  //     { name: "Websocket", icon: <SiSocketdotio className="" /> },
+  //     { name: "JWT", icon: <SiJsonwebtokens className="text-orange-500" /> },
+  //     { name: "Redis", icon: <DiRedis className="text-red-500" /> },
+  //     { name: "Docker", icon: <FaDocker className="text-blue-400" /> },
 
-    ],
-  },
+  //   ],
+  // },
   {
     title: "Databases",
     skills: [

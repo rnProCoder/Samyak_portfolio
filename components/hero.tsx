@@ -35,7 +35,7 @@ export default function Hero() {
 
           <p className="text-muted-foreground text-sm sm:text-base">
             A goal-oriented software developer with experience in building web applications using modern technologies
-            like React, Next.js, and more. Seeking to leverage my technical skills to deliver exceptional user
+            like React and more. Seeking to leverage my technical skills to deliver exceptional user
             experiences.
           </p>
 
