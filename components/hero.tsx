@@ -52,14 +52,14 @@ export default function Hero() {
                  </a>
               </Button>
             </Link>
-            <Link
+            {/* <Link
               href=""
               target="_blank"
             >
               <Button variant="outline" size="sm" className="text-xs sm:text-sm">
                 <Github className="h-3 w-3 sm:h-4 sm:w-4" />
               </Button>
-            </Link>
+            </Link> */}
             <Link
               href="mailto:samyakkiranbora@gmail.com"
               target="_blank"
@@ -68,14 +68,14 @@ export default function Hero() {
                 <Mail className="h-3 w-3 sm:h-4 sm:w-4" />
               </Button>
             </Link>
-            <Link
+            {/* <Link
               href="https://leetcode.com/u/aryanx16/"
               target="_blank"
             >
               <Button variant="outline" size="sm" className="text-xs sm:text-sm">
                 <SiLeetcode className="h-3 w-3 sm:h-4 sm:w-4" />
               </Button>
-            </Link>
+            </Link> */}
             <Link
               href="https://www.linkedin.com/in/samyak-kiran-bora/"
               target="_blank"
@@ -92,7 +92,7 @@ export default function Hero() {
           transition={{ duration: 0.5 }}
         >
 
-        <img src="./image.png" className=" object-cover w-96 h-80 border rounded-md shadow-md hidden md:block" alt="" />
+        <img src="./w.jpeg" className=" object-cover w-96 h-80 border rounded-md shadow-md hidden md:block" alt="" />
         </motion.div>
         {/* <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
