@@ -13,7 +13,7 @@ const projects = [
       title: "ePrinter",
     description:
       " streamlined printing solution, automating a manual campus process for over 2000 students to improve user convenience and operational efficiency, reducing user wait time by an estimated 45%.",
-    image: "/securecode.png",
+    image: "/2.png",
     tags: ["React.js", "Tailwind CSS", "MongoDB","Framer Motion"],
     demoUrl: "",
     githubUrl: "",
