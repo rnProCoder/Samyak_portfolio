@@ -110,13 +110,13 @@ export default function Experience() {
                 ))}
               </ul>
 
-              <div className="flex flex-wrap gap-2">
+              {/* <div className="flex flex-wrap gap-2">
                 {exp.skills.map((skill, idx) => (
                   <Badge key={idx} variant="outline">
                     {skill}
                   </Badge>
                 ))}
-              </div>
+              </div> */}
             </motion.div>
           ))}
         </div>
