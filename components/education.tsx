@@ -20,7 +20,7 @@ const education = [
   {
     institution: "Maurya Academy English Medium School,Rahuri",
     degree: "Secondary School Certificate (SSC)",
-    period: "Jun 2018 – Mar 2019",
+    period: "Jun 2019 – Mar 2020",
     gpa: "89.60%",
     icon: "🎓"
 
